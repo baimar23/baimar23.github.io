@@ -1,4 +1,4 @@
-# ML Benchmark
+# Machine Learning Benchmark
 ## Authors
 Christopher Metzler, Shehani De Silva, Deverell, Malachi Buchheit, Bailey Trip
 
